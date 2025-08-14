@@ -2,6 +2,6 @@
 <p align="center" id="description">Local_Manifests for LineageOS-21 </p>
 
 ```
-git clone https://github.com/AsTechpro20/local_manifests_blossom.git -b lineage-21 .repo/local_manifests
+git clone https://github.com/Jayedkhan800/local_manifests_blossom.git -b lineage-21 .repo/local_manifests
 ```
 
