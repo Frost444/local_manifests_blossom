@@ -3,13 +3,13 @@
   
   <!-- Remotes -->
   <remote name="Jayed" fetch="https://github.com/Jayedkhan800" />
-  <remote name="lineage" fetch="https://github.com/LineageOS" />
+  <!--remote name="lineage" fetch="https://github.com/LineageOS" /-->
    
   <!-- Device Trees -->
   <!--project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="Jayed" revision="lineage-23.0" /-->
 
   <!-- SELinux policies -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="Jayed" revision="sixteen" />
+  <!--project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="Jayed" revision="sixteen" /-->
 
   <!-- Hardware Supports -->
   <!--project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" revision="lineage-22.2" /-->
